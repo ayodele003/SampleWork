@@ -1,0 +1,9 @@
+Download Files
+Load to Xamp or Wamp Folder
+Launch Xamp or Wamp
+Launch phpmyadmin and Upload sql file found in "install folder"
+Open new Tab and Load downloaded files
+On install page click Next at the bottom
+Insert data into respective test fields "localhost" "root" and DB name
+Username:admin@admin.com
+password:123456
